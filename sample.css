@@ -1,0 +1,30 @@
+button{
+    
+    background-color: crimson;
+}
+#head{
+    color: aquamarine;
+    background-color: blue;
+}
+.label{
+    color: darkcyan;
+}
+
+div{
+    width: 300px;
+    height: 400px;
+    background-color: lawngreen;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    margin-left: 65px;
+    padding-left: 45px;
+    padding-top:25px;
+    
+}
+
+.para{
+    color:darkblue;
+}
+td{
+    text-align: center;
+}
